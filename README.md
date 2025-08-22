@@ -1,6 +1,6 @@
 # MNIST Digit Classification Streamlit App
 
-This project is a web app for classifying handwritten digits using a Convolutional Neural Network (CNN) trained on the MNIST dataset. The app is built with Streamlit and allows users to:
+This project is a web app for classifying handwritten digits using a Convolutional Neural Network (CNN) trained on the MNIST dataset with 99% accuracy. The app is built with Streamlit and allows users to:
 
 - View and predict random MNIST test samples
 - Upload their own digit images for prediction
