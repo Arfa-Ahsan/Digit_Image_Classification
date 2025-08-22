@@ -5,6 +5,9 @@ This project is a web app for classifying handwritten digits using a Convolution
 - View and predict random MNIST test samples
 - Upload their own digit images for prediction
 
+<img width="1634" height="867" alt="image" src="https://github.com/user-attachments/assets/9ab8a6c2-d4a4-4b53-a0ba-ab3cb69e705a" />
+
+
 ## Getting Started
 
 ### 1. Clone the repository
